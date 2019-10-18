@@ -27,12 +27,13 @@ main {
 .grid-view div.card.ui {
   margin: 1.25rem;
 }
-/*
+
 .main-img {
   display: block;
   border-radius: 100%;
   margin: 0 auto;
-} */
+  width: 50%;
+}
 
 header h1 {
   text-align: center;
@@ -62,5 +63,20 @@ header h1 {
 }
 
 .nav-link {
+  color: #476E24;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+.prompt {
+  height: 40px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+h1 {
   color: #476E24;
 }
