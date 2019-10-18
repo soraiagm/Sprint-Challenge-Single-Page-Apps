@@ -80,3 +80,15 @@ header h1 {
 h1 {
   color: #476E24;
 }
+
+.card-body {
+  background-color: lightyellow;
+}
+
+.card-title {
+  color: #476E24;
+}
+
+.card-subtitle {
+  color: #476E24;
+}
